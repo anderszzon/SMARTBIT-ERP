@@ -1,6 +1,8 @@
 # SMARTBIT-ERP
 
-usando .NET + BLAZOR WEB APP + SERVER + MVC 
+usando 
+Backend con .NET + EF + ADO.NET 
+Frontend con BLAZOR WEB APP + SERVER + MVC 
 
 https://frontendmvc-fra3eaegeyddgsau.canadacentral-01.azurewebsites.net/Account/Login
 
